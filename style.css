@@ -1,0 +1,12 @@
+body{
+    background-color:lightslategrey
+}
+
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:darkslateblue;
+    color: rgb(205, 245, 245);
+}
+#show_sketch{
+   float: right;   
+}
